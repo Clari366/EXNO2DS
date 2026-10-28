@@ -164,6 +164,7 @@ sns.heatmap(corr,annot=True,cmap='coolwarm')
 
 
 
+<img width="1112" height="672" alt="image" src="https://github.com/user-attachments/assets/ce9c00d8-ba54-424b-8ae5-c5455eaf0618" />
 
 
 
